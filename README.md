@@ -3,7 +3,7 @@
 
 
 <p align="left"> 
- Me chamo Yasmin, tenho 25 anos, atualmente estudo desenvolvimento web focado em front-end. 
+ Me chamo Yasmin, tenho 25 anos, curso Análise e Desenvolvimento de Sistemas. 
 </p>
 
 <h2> 🚀 Minhas Skills: </h2>
